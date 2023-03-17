@@ -1,2 +1,2 @@
-# simulador_credito
--- inserir descrição mais tarde
+# siimulador_de_credito
+script beck-end com programação estruturada para uma empresa de consórcio automotivo e imobiliário, para agilizar o trabalho dos vendedores. Este possuía como input o valor do crédito disponível, o credito sugerido e o número de parcelas. O sistema retornava o valor da entrada que o cliente precisava dar, o valor das parcelas, o valor do credito total em meses e anos e o valor total que o cliente pagará com juros.
